@@ -41,8 +41,15 @@ section, header {
 
 img {
     display: block;
-    max-width: 100%;
-    margin-bottom: 1em;
+    padding: 0%;
+    max-width: 800px;
+    margin: auto;
+}
+
+ .topimg {
+    margin-top: 0;
+    margin-bottom: 6rem;
+
 }
 
 .dropcap {
